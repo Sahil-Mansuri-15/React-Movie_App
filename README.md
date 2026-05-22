@@ -11,12 +11,11 @@
 [![TMDB](https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)](https://www.themoviedb.org/)
 
 [![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-app.vercel.app)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/movie-app?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Educational-blue?style=for-the-badge)
+
 
 <br/>
 
-[🌐 Live Demo](https://your-app.vercel.app) · [🐛 Report Bug](https://github.com/your-username/movie-app/issues) · [💡 Request Feature](https://github.com/your-username/movie-app/issues)
+[🌐 Live Demo](https://your-app.vercel.app) 
 
 </div>
 
@@ -208,24 +207,10 @@ This app is configured for seamless deployment on **Vercel**:
 
 ---
 
-## 📖 Tutorial Reference
 
-This project was built by following the tutorial by **JavaScript Mastery**:
 
-- 📺 **YouTube:** [Watch Tutorial](https://youtube.com/watch?v=dCLhUialKPQ)
-- 👨‍💻 **Channel:** [JavaScript Mastery](https://www.youtube.com/@javascriptmastery)
-
----
-
-## 📄 License
-
-This project is built for **educational purposes** as part of a learning exercise. Movie data is provided by [TMDB](https://www.themoviedb.org/) — this product uses the TMDB API but is not endorsed or certified by TMDB.
-
----
 
 <div align="center">
-
-Made with ❤️ by [Your Name](https://github.com/your-username)
 
 ⭐ Star this repo if you found it helpful!
 
