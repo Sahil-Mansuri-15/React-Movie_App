@@ -4,18 +4,9 @@
 
 ### A modern, full-stack movie discovery platform built with React & Appwrite
 
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)](https://appwrite.io/)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![TMDB](https://img.shields.io/badge/TMDB_API-01B4E4?style=for-the-badge&logo=themoviedatabase&logoColor=white)](https://www.themoviedb.org/)
-
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-app.vercel.app)
-
-
 <br/>
 
-[🌐 Live Demo](https://your-app.vercel.app) 
+[🌐 Live Demo](https://react-movie-app-sable-ten.vercel.app) 
 
 </div>
 
@@ -31,8 +22,7 @@
 - [Environment Variables](#-environment-variables)
 - [Appwrite Setup](#-appwrite-setup)
 - [Deployment](#-deployment)
-- [Tutorial Reference](#-tutorial-reference)
-- [License](#-license)
+
 
 ---
 
