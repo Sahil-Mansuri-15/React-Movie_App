@@ -42,10 +42,9 @@ const App = () => {
 
     try {
       const endpoint = query
-        ? `${API_BASE_URL}/search/movie?query=${encodeURIComponent(query)}`
-        : `${API_BASE_URL}/discover/movie?sort_by=popularity.desc`;
-
-      const response = await fetch(endpoint, API_OPTIONS);
+        ? `/api/tmdb?url=search/movie%3Fquery=${encodeURIComponent(query)}`
+        : `/api/tmdb?url=discover/movie%3Fsort_by=popularity.desc`;
+      const response = await fetch(endpoint);
 
       if(!response.ok) {
         throw new Error('Failed to fetch movies');
